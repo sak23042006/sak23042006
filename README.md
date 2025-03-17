@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer exploring Kalvium.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Full stack web development.<br><br>🌱 I’m currently learning T3 and React Native.<br><br>👯 I’m looking to collaborate on Mern Stack.<br><br>🤝 I’m looking for help with WebGl<br><br>👨‍💻 All of my projects are available at https://github.com/sak23042006<br><br>💬 Ask me about react and express.<br><br>📫 How to reach me arun.ofc09@gmail.com
+🔭 I’m currently working on Full stack web and app development.<br><br>🌱 I’m currently learning T3 and React Native.<br><br>👯 I’m looking to collaborate on Mern Stack.<br><br>🤝 I’m looking for help with WebGl<br><br>👨‍💻 All of my projects are available at https://github.com/sak23042006<br><br>💬 Ask me about react and express.<br><br>📫 How to reach me arun.ofc09@gmail.com
 
 
 ## 🌐 Socials:
@@ -32,6 +32,3 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arun_kumar) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
