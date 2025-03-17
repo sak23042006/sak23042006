@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun Kumar S</h1>
-<h3 align="center">A passionate frontend developer exploring Kalvium.</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Full stack web and app development.<br><br>🌱 I’m currently learning T3 and React Native.<br><br>👯 I’m looking to collaborate on Mern Stack.<br><br>🤝 I’m looking for help with WebGl<br><br>👨‍💻 All of my projects are available at https://github.com/sak23042006<br><br>💬 Ask me about react and express.<br><br>📫 How to reach me arun.ofc09@gmail.com
