@@ -3,7 +3,7 @@
 # <a href='https://dp9plo9wq0xua.cloudfront.net'>Portfolio</a>
 
 # 💫 About Me:
-🔭 I’m currently a Full stack web and app development.<br><br>👯 I’m looking to collaborate on Full Stack.<br><br>🤝 I’m looking for help with WebGl<br><br>👨‍💻 All of my projects are available at https://github.com/sak23042006<br><br>💬 Ask me about web and app development<br><br>📫 How to reach me arun.ofc09@gmail.com
+<br>👯 I’m looking to collaborate on Full Stack.<br><br>🤝 I’m looking for help with WebGl<br><br>👨‍💻 All of my projects are available at https://github.com/sak23042006<br><br>💬 Ask me about web and app development<br><br>📫 How to reach me arun.ofc09@gmail.com
 
 
 ## 🌐 Socials:
