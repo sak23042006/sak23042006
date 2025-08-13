@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arun Kumar S</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 # <a href='https://dp9plo9wq0xua.cloudfront.net'>Portfolio</a>
 
 # 💫 About Me:
-🔭 I’m currently working on Full stack web and app development.<br><br>🌱 I’m currently learning T3 and React Native.<br><br>👯 I’m looking to collaborate on Mern Stack.<br><br>🤝 I’m looking for help with WebGl<br><br>👨‍💻 All of my projects are available at https://github.com/sak23042006<br><br>💬 Ask me about web and app development<br><br>📫 How to reach me arun.ofc09@gmail.com
+🔭 I’m currently a Full stack web and app development.<br><br>👯 I’m looking to collaborate on Full Stack.<br><br>🤝 I’m looking for help with WebGl<br><br>👨‍💻 All of my projects are available at https://github.com/sak23042006<br><br>💬 Ask me about web and app development<br><br>📫 How to reach me arun.ofc09@gmail.com
 
 
 ## 🌐 Socials:
@@ -25,9 +25,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sak23042006&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sak23042006&icon=5&color=9)](https://visitcount.itsvg.in)
